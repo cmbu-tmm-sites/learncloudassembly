@@ -27,6 +27,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.LEARNCODESTREAM_DEPLOY_KEY }}
-          external_repository: vra-tmm/learncodestream.github.io
+          deploy_key: ${{ secrets.LEARNCLOUDASSEMBLY_KEY }}
+          external_repository: learncloudassembly/learncloudassembly.github.io
           publish_branch: main
