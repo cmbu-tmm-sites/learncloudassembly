@@ -79,6 +79,10 @@ enableGitInfo = true
         url = "/Deployments/Test"
         weight = 2
         parent = "Deployments"
+    [[menu.main]]
+        name = "Moff"
+        url = "/Moffzilla"
+        weight = 3
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
