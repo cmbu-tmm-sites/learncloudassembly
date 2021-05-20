@@ -1,5 +1,5 @@
 ---
-title: "Testing"
+title: "Resource Actions"
 weight: 100
 ---
 

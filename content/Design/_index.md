@@ -1,6 +1,6 @@
 ---
 title: "Design"
-weight: 50
+weight: 10
 ---
 
-Welcome to Learn Cloud Assembly!
+Welcome to Learn Cloud Assembly Design!

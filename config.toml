@@ -13,11 +13,11 @@ enableGitInfo = true
 
     # Source Code repository section
     description = "VMware vRealize Automation"
-    # github_repository = "https://github.com/learncodestream/learncodestream"
+    # github_repository = "https://github.com/learncloudassembly/learncloudassembly"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/learncodestream/learncodestream"
+    github_doc_repository = "https://github.com/learncloudassembly/learncloudassembly"
     github_doc_branch = "main"
 
     # Analytic section
@@ -71,18 +71,29 @@ enableGitInfo = true
         url = "/"
         weight = 1
     [[menu.main]]
-        name = "Deployments"
-        url = "/Deployments/"
+        name = "Deployment"
+        url = "/Deployments"
         weight = 2
     [[menu.main]]
-        name = "Test"
-        url = "/Deployments/Test"
-        weight = 2
-        parent = "Deployments"
-    [[menu.main]]
-        name = "Moff"
-        url = "/Moffzilla"
+        name = "Design"
+        url = "/Design"
         weight = 3
+    [[menu.main]]
+        name = "Infrastructure"
+        url = "/Infrastructure"
+        weight = 4
+    [[menu.main]]
+        name = "Extensibility"
+        url = "/Extensibility"
+        weight = 5
+    [[menu.main]]
+        name = "Tenant Management"
+        url = "/Tenant Management"
+        weight = 6
+    [[menu.main]]
+        name = "Marketplace"
+        url = "/Marketplace"
+        weight = 7
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
