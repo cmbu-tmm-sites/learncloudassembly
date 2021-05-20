@@ -2,7 +2,7 @@
 <!-- {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }} -->
 <div class="clr-content-image-wrap">
 <a href="{{ .Get "src" }}" data-lightbox="page-images" data-title="{{ .Get "alt" }}" >
-<img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" {{ with .Get "width"}} width="{{.}}" {{ end }} />
+<img width=750 height=500 src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" {{ with .Get "width"}} width="{{.}}" {{ end }} />
 </a>
 <figcaption class="clr-caption">{{(.Get "alt")}}</figcaption>
 </div>
