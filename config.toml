@@ -94,6 +94,10 @@ enableGitInfo = true
         name = "Marketplace"
         url = "/Marketplace"
         weight = 7
+    [[menu.main]]
+        name = "Alerts"
+        url = "/Alerts"
+        weight = 8
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
