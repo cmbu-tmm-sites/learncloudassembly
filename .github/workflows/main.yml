@@ -6,6 +6,10 @@ on:
       - main  # Set a branch name to trigger deployment
     paths:
     - 'content/**'
+  workflow_dispatch:
+    branches:
+      - main
+
 
 jobs:
   deploy:
