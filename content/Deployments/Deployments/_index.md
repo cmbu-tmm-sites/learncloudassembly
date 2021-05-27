@@ -7,16 +7,7 @@ You can access the current status of your provisioned resources.<br>
 
 {{< img src="/Deployments/Deployments/deployment-single.png" alt="Deployment View" >}}
 
-You have two modes to display all your deployments: 
-<strong>Card Wiew</strong>
-{{< img src="/Deployments/Deployments/deployment-cardview.png" alt="Deployment Card View" >}}
-
-<strong>Grid Wiew</strong>
-{{< img src="/Deployments/Deployments/deployment-gridview.png" alt="Deployment Grid View" >}}
-
-You can access detailed information for the deployment, such as: who owns the deployment, requested it, which Cloud Template has been used, expiration, created on and last updated dates.
-
-Additionally, Day 2 operations that affects all the resources within the deployment:
+You can access detailed information for the deployment, such as: who owns the deployment, requested it, which Cloud Template has been used, expiration, created on and last updated dates. Additionally, Day 2 operations that affects all the resources within the deployment:
 
  <ul>
     <li><strong>Change Lease</strong></li>
@@ -29,15 +20,15 @@ Additionally, Day 2 operations that affects all the resources within the deploym
     <li><strong>Power On</strong></li>
  </ul>
 
-The Deployment view allows you to see a visual representation of the deployment <strong>Topology</strong>, which includes also access to the resources assoicated properties.
+The Deployment view allows you to see a visual representation of the deployment <strong>Topology</strong>, which includes also access to the resources assoicated properties. You can use the Topology tab to understand the deployment structure and resources.
 
 {{< img src="/Deployments/Deployments/deployment-details.png" alt="Deployment Full Detailed View" >}}
 
-<strong>History</strong> Tab will give detailed insights of every operation performed at this deployement, e.g., Any update changes, power on/off activities, approval requests, etc.
+<strong>History</strong> Tab includes all the provisioning events and any events related to actions that you run after requested item is deployed. If there are any problems with the provisioning process, the History tab events will help you with troubleshoot the failures.
 
 {{< img src="/Deployments/Deployments/deployment-history.png" alt="Deployment History" >}}
 
-<strong>Price</strong> Tab in the other hand provides the user with "Price month to date" &  "Last month" price analysis in a monthly, weekly or daily modes and withing an specific data range:
+<strong>Price</strong> Tab displays pricing information is based on vRealize Operations Manager or CloudHealth integrations. You can use the pricing card to understand how much your deployment is costing your organization:
 
 {{< img src="/Deployments/Deployments/deployment-priceoverall.png" alt="Deployment Price Analysis Overall" >}}
 
@@ -45,17 +36,28 @@ Price Analysis details are also available and visually represented:
 
 {{< img src="/Deployments/Deployments/deployment-pricedetails.png" alt="Deployment Price Analysis Details" >}}
 
-<strong>Monitor</strong> Tab xxxxxxx:
+<strong>Monitor</strong> Tab data provides information about the health of your deployment based on data from vRealize Operations Manager:
 
 {{< img src="/Deployments/Deployments/deployment-monitor.png" alt="Deployment Monitor" >}}
 
-<strong>Alerts</strong> Tab xxxxxxx:
+<strong>Alerts</strong> Tab provides active alerts on the deployment resources. You can dismiss the alert or add reference notes. The alerts are based on data from vRealize Operations Manager.:
 
 {{< img src="/Deployments/Deployments/deployment-alerts.png" alt="Deployment Monitor" >}}
 
-<strong>Optimize</strong> Tab xxxxxxx:
+<strong>Optimize</strong> Tab provides utilization information about your deployment and offers suggestions for reclaiming or otherwise modifying the resources to optimize resource consumption. The optimization information is based on data from vRealize Operations Manager:
 
 {{< img src="/Deployments/Deployments/deployment-optimize.png" alt="Deployment Rightsize & Underutilized Resources" >}}
+
+<strong>Deployments Views: </strong>
+
+You have two modes to display all your deployments: 
+<strong>Card Wiew</strong>
+{{< img src="/Deployments/Deployments/deployment-cardview.png" alt="Deployment Card View" >}}
+
+<strong>Grid Wiew</strong>
+{{< img src="/Deployments/Deployments/deployment-gridview.png" alt="Deployment Grid View" >}}
+
+<strong>Deployments Search & Sorting Capabilities:</strong>
 
 You can use search to locate deployments based on a broad range of values, not just the deployment name. 
 
