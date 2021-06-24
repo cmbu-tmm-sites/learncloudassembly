@@ -8,8 +8,8 @@ Providers list and access multiple tenant organizations
 
 {{< img src="/Tenant-Management/tenantmanagement-top.png" alt="Tenant Management View" >}}
 
-then allocate [virtual private zone](/Infrastructure/Configure/Virtual-Private-Zone) within each tenant.
-Please note that you can always search and filter then manage your existing [virtual private zone](/Infrastructure/Configure/Virtual-Private-Zone)
+then allocate [virtual private zone](/Infrastructure/Configure/Virtual-Private-Zones/) within each tenant.
+Please note that you can always search and filter then manage your existing [virtual private zone.](/Infrastructure/Configure/Virtual-Private-Zones/)
 
 {{< img src="/Tenant-Management/Tenants/tenantmanagement-infra.png" alt="Tenant Management Infrastructure" >}}
 
