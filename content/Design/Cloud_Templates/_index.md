@@ -1,6 +1,6 @@
 ---
 title: "Cloud Templates"
-weight: 100
+weight: 20
 ---
 
 The <strong>Cloud Templates</strong> tab will allow you to manage your Cloud Templates.<br> 

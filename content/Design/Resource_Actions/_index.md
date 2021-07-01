@@ -1,6 +1,6 @@
 ---
 title: "Resource Actions"
-weight: 100
+weight: 50
 ---
 
 ## Content

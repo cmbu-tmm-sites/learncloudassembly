@@ -1,6 +1,6 @@
 ---
 title: "Custom Resources"
-weight: 100
+weight: 40
 ---
 
 ## Content
