@@ -12,12 +12,12 @@ enableGitInfo = true
     logo = "/images/cloud-assembly.png"
 
     # Source Code repository section
-    description = "VMware vRealize Automation"
-    # github_repository = "https://github.com/learncloudassembly/learncloudassembly"
+    description = "Part of VMware vRealize Automation"
+    # github_repository = "https://github.com/cmbu-tmm-sites/learncloudassembly"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/learncloudassembly/learncloudassembly"
+    github_doc_repository = "https://github.com/cmbu-tmm-sites/learncloudassembly"
     github_doc_branch = "main"
 
     # Analytic section
