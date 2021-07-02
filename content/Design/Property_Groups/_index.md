@@ -3,8 +3,6 @@ title: "Property Groups"
 weight: 30
 ---
 
-## Content
-
 You can quickly add a property group to different vRealize Automation Cloud Assembly designs, which saves the time of adding the same multiple properties one by one. In addition, you have a single place to maintain or modify the set of properties, which ensures their consistent application.
 
 {{< img src="/Design/Property_Groups/Property_Groups-list.png" alt="Property Groups List" >}}
