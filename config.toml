@@ -30,7 +30,7 @@ enableGitInfo = true
     # See https://gohugo.io/templates/internal/#open-graph
     # See https://gohugo.io/templates/internal/#twitter-cards
     title = "Learn Cloud Assembly"
-    images = ["/images/cloud-assembly.png"] # Open graph images are placed in `static/images`
+    images = ["/images/orchestrator-tile.png"] # Open graph images are placed in `static/images`
 
     # Theme settings section
     # Theme color
