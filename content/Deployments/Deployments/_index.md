@@ -51,10 +51,10 @@ Price Analysis details are also available and visually represented:
 <strong>Deployments Views: </strong>
 
 You have two modes to display all your deployments: 
-<strong>Card Wiew</strong>
+<strong>Card View</strong>
 {{< img src="/Deployments/Deployments/deployment-cardview.png" alt="Deployment Card View" >}}
 
-<strong>Grid Wiew</strong>
+<strong>Grid View</strong>
 {{< img src="/Deployments/Deployments/deployment-gridview.png" alt="Deployment Grid View" >}}
 
 <strong>Deployments Search & Sorting Capabilities:</strong>
