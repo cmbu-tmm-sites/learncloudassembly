@@ -5,7 +5,7 @@ weight: 100
 
 You can access the current status of your provisioned resources.<br> 
 
-{{< img src="/Deployments/Deployments/deployment-single.png" alt="Deployment View" >}}
+{{< img src="/Resources/Deployments/deployment-single.png" alt="Deployment View" >}}
 
 You can access detailed information for the deployment, such as: who owns the deployment, requested it, which Cloud Template has been used, expiration, created on and last updated dates. Additionally, Day 2 operations that affects all the resources within the deployment:
 
@@ -22,46 +22,46 @@ You can access detailed information for the deployment, such as: who owns the de
 
 The Deployment view allows you to see a visual representation of the deployment <strong>Topology</strong>, which includes also access to the resources assoicated properties. You can use the Topology tab to understand the deployment structure and resources.
 
-{{< img src="/Deployments/Deployments/deployment-details.png" alt="Deployment Full Detailed View" >}}
+{{< img src="/Resources/Deployments/deployment-details.png" alt="Deployment Full Detailed View" >}}
 
 <strong>History</strong> Tab includes all the provisioning events and any events related to actions that you run after requested item is deployed. If there are any problems with the provisioning process, the History tab events will help you with troubleshoot the failures.
 
-{{< img src="/Deployments/Deployments/deployment-history.png" alt="Deployment History" >}}
+{{< img src="/Resources/Deployments/deployment-history.png" alt="Deployment History" >}}
 
 <strong>Price</strong> Tab displays pricing information is based on vRealize Operations Manager or CloudHealth integrations. You can use the pricing card to understand how much your deployment is costing your organization:
 
-{{< img src="/Deployments/Deployments/deployment-priceoverall.png" alt="Deployment Price Analysis Overall" >}}
+{{< img src="/Resources/Deployments/deployment-priceoverall.png" alt="Deployment Price Analysis Overall" >}}
 
 Price Analysis details are also available and visually represented:
 
-{{< img src="/Deployments/Deployments/deployment-pricedetails.png" alt="Deployment Price Analysis Details" >}}
+{{< img src="/Resources/Deployments/deployment-pricedetails.png" alt="Deployment Price Analysis Details" >}}
 
 <strong>Monitor</strong> Tab data provides information about the health of your deployment based on data from vRealize Operations Manager:
 
-{{< img src="/Deployments/Deployments/deployment-monitor.png" alt="Deployment Monitor" >}}
+{{< img src="/Resources/Deployments/deployment-monitor.png" alt="Deployment Monitor" >}}
 
 <strong>Alerts</strong> Tab provides active alerts on the deployment resources. You can dismiss the alert or add reference notes. The alerts are based on data from vRealize Operations Manager.:
 
-{{< img src="/Deployments/Deployments/deployment-alerts.png" alt="Deployment Monitor" >}}
+{{< img src="/Resources/Deployments/deployment-alerts.png" alt="Deployment Monitor" >}}
 
 <strong>Optimize</strong> Tab provides utilization information about your deployment and offers suggestions for reclaiming or otherwise modifying the resources to optimize resource consumption. The optimization information is based on data from vRealize Operations Manager:
 
-{{< img src="/Deployments/Deployments/deployment-optimize.png" alt="Deployment Rightsize & Underutilized Resources" >}}
+{{< img src="/Resources/Deployments/deployment-optimize.png" alt="Deployment Rightsize & Underutilized Resources" >}}
 
 <strong>Deployments Views: </strong>
 
 You have two modes to display all your deployments: 
 <strong>Card View</strong>
-{{< img src="/Deployments/Deployments/deployment-cardview.png" alt="Deployment Card View" >}}
+{{< img src="/Resources/Deployments/deployment-cardview.png" alt="Deployment Card View" >}}
 
 <strong>Grid View</strong>
-{{< img src="/Deployments/Deployments/deployment-gridview.png" alt="Deployment Grid View" >}}
+{{< img src="/Resources/Deployments/deployment-gridview.png" alt="Deployment Grid View" >}}
 
 <strong>Deployments Search & Sorting Capabilities:</strong>
 
 You can use search to locate deployments based on a broad range of values, not just the deployment name. 
 
-{{< img src="/Deployments/Deployments/deployment-search.png" alt="Search Deployments with MOAD and S3 Strings" >}}
+{{< img src="/Resources/Deployments/deployment-search.png" alt="Search Deployments with MOAD and S3 Strings" >}}
 
 You can also locate deployments based on:
 
@@ -80,7 +80,7 @@ When you use the search, observe the following advantages and constraints:
 
 If you are looking for projects or resource types, use the filter rather than the search. You can also use the filters with the search to locate deployments.
 
-{{< img src="/Deployments/Deployments/deployment-filter.png" alt="Filtering by Cloud Account and Sorting by creation." >}}
+{{< img src="/Resources/Deployments/deployment-filter.png" alt="Filtering by Cloud Account and Sorting by creation." >}}
 
 You also have the ability to <strong>Sort</strong> your deployment list by multiple criteria such as:
 
@@ -97,5 +97,5 @@ You also have the ability to <strong>Sort</strong> your deployment list by multi
     <li>Last updated (descending)</li>
 </ul>
 
-{{< img src="/Deployments/Deployments/deployment-sort.png" alt="Sorting Expires on (descending)" >}}
+{{< img src="/Resources/Deployments/deployment-sort.png" alt="Sorting Expires on (descending)" >}}
 

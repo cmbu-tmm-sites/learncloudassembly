@@ -71,8 +71,8 @@ enableGitInfo = true
         url = "/"
         weight = 1
     [[menu.main]]
-        name = "Deployment"
-        url = "/Deployments"
+        name = "Resources"
+        url = "/Resources"
         weight = 2
     [[menu.main]]
         name = "Design"
