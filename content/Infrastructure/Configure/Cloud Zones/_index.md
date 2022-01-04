@@ -7,7 +7,7 @@ weight: 10
 
 {{< img src="/Infrastructure/Configure/Cloud-Zones/cloudzones-display.png" alt="Cloud Zones List" >}}
 
-Cloud zones in a specific account region are where your [cloud templates](Design/Cloud_Templates/) deploy workloads. Each cloud zone is associated with a Cloud Assembly [project](/Infrastructure/Administration/Projects/).
+Cloud zones in a specific account region are where your [cloud templates](/Design/Cloud_Templates/) deploy workloads. Each cloud zone is associated with a Cloud Assembly [project](/Infrastructure/Administration/Projects/).
 
 {{< img src="/Infrastructure/Configure/Cloud-Zones/cloudzones-view.png" alt="Cloud Zones" >}}
 
