@@ -8,7 +8,7 @@ weight: 15
 Follow along this count down list and learn about the 10 most useful and popular Cloud Templates features for being productive. 
 
 
-1. User Input
+1. [User Input](/Learn-in-5/Top-10-Cloud-Templates-features/User-Input/)
 2. Properties
 3. [Resource Flags](/Learn-in-5/Top-10-Cloud-Templates-features/Resource-Flags/)<br>
 4. Expressions
