@@ -18,3 +18,4 @@ Follow along this count down list and learn about the 10 most useful and popular
 8. [Validation (without deploying)](/Learn-in-5/Top-10-Cloud-Templates-features/Validation/)
 9. [Inline Syntax Reference](/Learn-in-5/Top-10-Cloud-Templates-features/Inline-Syntax/)
 10. [Code Completion help](/Learn-in-5/Top-10-Cloud-Templates-features/Code-Completion/)
+
