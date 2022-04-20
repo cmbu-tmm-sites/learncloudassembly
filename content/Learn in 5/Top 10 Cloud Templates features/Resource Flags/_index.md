@@ -3,7 +3,7 @@ title: "Resource Flags"
 weight: 15
 ---
 
-{{< img src="/Learn-in-5/Top-10-Cloud-Templates-features/Resource-Flags/Resource_Flags.png" >}}
+{{< img src="/Learn-in-5/Top-10-Cloud-Templates-features/Resource-Flags/resource_flags_bis.png" >}}
 
 Check out the [whole set of Resource Flags available in vRealize Automation](https://docs.vmware.com/en/vRealize-Automation/services/Using-and-Managing-Cloud-Assembly/GUID-B76918AE-D18D-4821-B160-F0CFAE173359.html) and/or see some of this properties in action at this short demo
 
