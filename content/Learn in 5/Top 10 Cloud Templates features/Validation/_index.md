@@ -1,0 +1,14 @@
+---
+title: "Validation"
+weight: 40
+---
+
+{{< img src="/Learn-in-5/Top-10-Cloud-Templates-features/Validation/validation.png" >}}
+
+Learn more about [test a basic cloud template in Cloud Assembly](https://docs.vmware.com/en/vRealize-Automation/services/Using-and-Managing-Cloud-Assembly/GUID-51566EF4-E3D1-42A6-A855-80835A59A82C.html)
+
+Try it out in your lab or [vRealize Automation Cloud Trial](https://www.vmware.com/products/vrealize-automation.html)
+
+Where to go from here - Learn more about [Cloud Assembly Tutorials](https://docs.vmware.com/en/vRealize-Automation/services/Using-and-Managing-Cloud-Assembly/GUID-DB7DC86A-8936-411D-B586-0724171FFB40.html), explore tde [Top 10 Cloud Templates features](/Learn-in-5/Top-10-Cloud-Templates-features/)  and more.
+
+
